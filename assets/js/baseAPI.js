@@ -19,3 +19,14 @@ $.ajaxPrefilter(function(options) {
 
     }
 })
+
+
+// 卡片代码
+//    <div class="layui-card">
+//         <div class="layui-card-header">
+//             卡片面板
+//         </div>
+//         <div class="layui-card-body">
+//             主体
+//         </div>
+//     </div>
